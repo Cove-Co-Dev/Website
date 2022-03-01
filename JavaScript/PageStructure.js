@@ -5,7 +5,7 @@ function createNav()
     <h5 style="font-weight: normal;">
       <ul class="nav justify-content-start" style="position: absolute;">
         <li class="nav-item">
-          <a class="nav-link active" style="color: black;" aria-current="page" href="index">Cove CO.</a>
+          <a class="nav-link active" style="color: black;" aria-current="page" href="index">Cove Co.</a>
         </li>
       </ul>
 
@@ -42,7 +42,7 @@ function createFooter()
       <h5 style="text-align: right; padding: 5%;">
         Cove Co.
         <br>
-        Designed and developed by Samuel Allen
+        Designed and developed by Samuel Allen and Milan Marocchi
         <br>
         <a href="#" class="link-dark" target=”_blank”>
           info
