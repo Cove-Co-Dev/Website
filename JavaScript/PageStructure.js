@@ -36,9 +36,7 @@ function createFooter()
 {
   document.write
   (`
-    <br><br><br><br><br>
-
-    <footer style="position: absolute; bottom: -30%;">
+    <footer style="position: relative; height: 25%; margin-top: 20%; padding: 0; margin-bottom: 0;">
       <h5 style="text-align: right; padding: 5%;">
         Cove Co.
         <br>
