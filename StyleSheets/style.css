@@ -67,7 +67,7 @@ body
 
 .PageWrapper
 {
-  height: 100%;
+  min-height: 100%;
   padding: 2% 4% 2% 4%;
 }
 
