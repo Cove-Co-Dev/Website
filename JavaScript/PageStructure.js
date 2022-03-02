@@ -38,7 +38,7 @@ function createFooter()
   (`
     <br><br><br><br><br>
 
-    <footer>
+    <footer style="position: absolute; bottom: -30%;">
       <h5 style="text-align: right; padding: 5%;">
         Cove Co.
         <br>
