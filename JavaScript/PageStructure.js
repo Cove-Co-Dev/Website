@@ -5,13 +5,13 @@ function createNav()
     <h5 style="font-weight: normal;">
       <ul class="nav justify-content-start" style="position: absolute;">
         <li class="nav-item">
-          <a class="nav-link active" style="color: black;" aria-current="page" href="index">Cove Co.</a>
+          <a class="nav-link active" style="color: white;" aria-current="page" href="index">Cove Co.</a>
         </li>
       </ul>
 
       <ul class="nav justify-content-end">
         <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle" style="color: black;" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Connect</a>
+          <a class="nav-link dropdown-toggle" style="color: white;" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Connect</a>
           <div class="dropdown-menu">
             <h5>
             <a class="dropdown-item" href="mailto:coveco.contact@gmail.com" style="display: flex; align-items: center">
@@ -36,13 +36,13 @@ function createFooter()
 {
   document.write
   (`
-    <footer style="position: relative; height: 25%; margin-top: 20%; padding: 0; margin-bottom: 0;">
+    <footer style="position: relative; min-height: 25%; margin-top: 20%; padding: 0; margin-bottom: 0;">
       <h5 style="text-align: right; padding: 5%;">
         Cove Co.
         <br>
         Designed and developed by Samuel Allen and Milan Marocchi
         <br>
-        <a href="#" class="link-dark" target=”_blank”>
+        <a href="https://samallen.info" class="link-light" target=”_blank”>
           info
         </a>
       </h5>
